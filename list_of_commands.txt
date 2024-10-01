@@ -1,0 +1,12 @@
+To start the usage of the programe it has to be downloaded the historical prices in csv format to Data folder. Then they have to be defined in names list at the beginnig of the main.py. 
+
+List of commands:
+1 - find best parameters for grafient boosting
+2 - compare models
+3 - make predictions
+4 - build the efficient portfolio
+5 - show the efficient allocation of portfolio
+6 - show the efficient frontier 
+7 - show mean returns 
+8 - show covariance matrix
+9 - show price changes
